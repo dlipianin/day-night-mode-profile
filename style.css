@@ -150,6 +150,10 @@
   justify-content: flex-end;
 }
 
+.media-icons a {
+  text-decoration: none;
+}
+
 .media-icons i {
   display: inline-flex;
   margin: 0 4px;
